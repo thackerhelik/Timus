@@ -11,7 +11,7 @@ else unite every with value and continue
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long int
-const int MAXN = 400005;
+const int MAXN = 200005;
 
 ll parent[MAXN];
 
